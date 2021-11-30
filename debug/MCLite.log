@@ -1,0 +1,10 @@
+﻿  Game.cpp
+  Map.cpp
+  MapGen.cpp
+  View.cpp
+C:\Users\luoyi\Projects\MCLite\View.cpp(3,40): warning C4100: 'event': unreferenced formal parameter
+C:\Users\luoyi\Projects\MCLite\View.cpp(8,37): warning C4100: 'event': unreferenced formal parameter
+  Generating Code...
+Map.obj : error LNK2001: unresolved external symbol "public: virtual double __cdecl Block::getCurrentDurability(void)const " (?getCurrentDurability@Block@@UEBANXZ)
+Map.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl Block::updateState(enum HarvestLevel)" (?updateState@Block@@UEAAXW4HarvestLevel@@@Z)
+debug\\MCLite.exe : fatal error LNK1120: 2 unresolved externals

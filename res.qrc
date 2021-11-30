@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/tool">
+        <file>res/iron_pickaxe.png</file>
+        <file>res/iron_shovel.png</file>
+        <file>res/iron_sword.png</file>
+        <file>res/weapon_HUD.png</file>
+    </qresource>
+    <qresource prefix="/backGround">
+        <file>res/BGI.jpg</file>
+        <file>res/menuBGI.jpg</file>
+    </qresource>
+    <qresource prefix="/blocks">
+        <file>res/bedrock.png</file>
+        <file>res/coal_ore.png</file>
+        <file>res/cobblestone.png</file>
+        <file>res/dirt.png</file>
+        <file>res/grass_block_side.png</file>
+        <file>res/oak_leaves.png</file>
+        <file>res/oak_log.png</file>
+        <file>res/stone.png</file>
+        <file>res/damage_effects.png</file>
+        <file>res/item_HUD.png</file>
+        <file>res/oak_planks.png</file>
+        <file>res/glass.png</file>
+    </qresource>
+    <qresource prefix="/player">
+        <file>res/model.png</file>
+        <file>res/desmond.jpg</file>
+        <file>res/ggnai.png</file>
+    </qresource>
+</RCC>
